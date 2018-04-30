@@ -122,3 +122,5 @@ DIV[class*="membersGroup"] {
 DIV[class*="membersWrap"]:hover DIV[class*="membersGroup"] {
 	font-size: 12px;
 }
+@import: url('https://fonts.googleapis.com/css?family=Lobster');
+*{font-family: Lobster !important;color: COLOR !important;}
